@@ -31,7 +31,6 @@ I have hands-on experience with multiple programming paradigms, including compil
 - PHP  
 - TypeScript  
 - Ruby  
-- Scratch (logic modeling and educational workflows)
 
 > **Note:** I do not use the C programming language.
 
